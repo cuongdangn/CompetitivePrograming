@@ -1,0 +1,14 @@
+const   finp    =       '';
+        fout    =       '';
+    text;
+
+
+
+
+
+
+
+
+
+
+

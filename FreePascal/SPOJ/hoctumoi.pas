@@ -1,0 +1,1 @@
+const   a      :      array[0..10] of string=('attentive','cheeky','intelligent','faithful',
